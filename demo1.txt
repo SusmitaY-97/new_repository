@@ -3,3 +3,4 @@ I want to know the changes made.
 & the difference between local & remote repository.
 Now experimenting on pull command
 Now trying push command
+checking conflit when file modified at the time by locally and remotely
