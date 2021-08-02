@@ -4,7 +4,7 @@ extract_text_from_image module provide following functionality
 #################################################################
 Below packages are need to be installed before module to be used
 #################################################################
-1. pytesseract
+A. pytesseract
 steps to install
    
 1. pip3 install pytesseract
@@ -12,7 +12,7 @@ steps to install
 #################################################################
 Below application need to be installed
 #################################################################
-1. tesseract (application)
+B. tesseract (application)
 #################################################################
 steps to install 
 1. click on the below link
