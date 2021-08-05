@@ -1,6 +1,7 @@
 """
-This module helps to extract text present on the image
-It has one method image_to_text, create_file, write_result_file
+This module helps to extract text present on the image &
+storing that text to json file
+It has methods like image_to_text, create_file, write_result_file
 """
 import pytesseract
 import cv2
